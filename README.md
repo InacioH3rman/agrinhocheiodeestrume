@@ -1,3 +1,5 @@
+Com o guia da tecnologia ChatGPT, que foi me auxiliando e me falando quais comandos eu deveria usar para fazer o projeto funcionar, eu apresento:
+
 Tree Clicker
 Um jogo no estilo Cookie Clicker, onde você coleta madeira clicando em uma árvore e compra serrarias para gerar madeira automaticamente!
 
